@@ -1,2 +1,2 @@
 # Cargatron-TheBridge
-Ejemplo de app de streamlit desplegada
+Ejemplo de app de streamlit desplegada.
